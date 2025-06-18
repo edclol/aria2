@@ -90,6 +90,7 @@ bash get_bt.sh
 
 - [p3terx/aria2-pro](https://github.com/P3TERX/Aria2-Pro-Docker)
 - [AriaNg](https://github.com/mayswind/AriaNg)
+- [aria2.conf](https://github.com/P3TERX/aria2.conf.git)
 
 ---
 
